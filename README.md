@@ -1,4 +1,7 @@
 # compression_text_files
+Author: Quoc Phong Ngo  
+Copyright © 2023
+
 An application that will allow users to compress and decompress simple text files. A small menu will provide users with a
 handful of options for manipulating and displaying input.
 
